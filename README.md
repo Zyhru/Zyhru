@@ -14,7 +14,7 @@
   <h2>About Me</h2>
   I'm a computer science major looking forward to becoming a Software Engineer.
   
-  I'm a Full Stack Developer and looking to enhance my skills and knowledge to become a better Software Engineer. 
+  I'm a Full Stack Developer and looking to enhance my skills and knowledge in becoming a better Software Engineer. 
   </div>
 </div>
 
