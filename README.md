@@ -6,7 +6,8 @@
 
 <div>
 <!-- <img src=ezgif.com-gif-maker.gif width=100height=100> -->
- <p style="float: left;">
+ <!-- style="float: center;" -->
+ <p align=center>
  <img src="ezgif.com-gif-maker.gif" width=100 height=200>
  </p>
   <div align=center>
