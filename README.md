@@ -6,26 +6,26 @@
 
 <div>
 <!-- <img src=ezgif.com-gif-maker.gif width=100height=100> -->
- <p style="float: left; justify-content: space-between;">
+ <p style="float: left;">
  <img src="ezgif.com-gif-maker.gif" width=100 height=200>
  </p>
   <div align=center>
-  <h2 align=center>About Me</h2>
-  I'm a computer science major looking in becoming a Software Engineer.
+  <h2>About Me</h2>
+  I'm a computer science major looking forward to becoming a Software Engineer.
   
   I'm a Full Stack Developer and looking to enhance my skills and knowledge to become a better Software Engineer. 
+  </div>
 </div>
-</div>
+
+## Socials
+
+  <a href="https://www.linkedin.com/in/harvey_munoz1/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## Skills
 <p>
@@ -48,8 +48,3 @@
 
 </p>
 
-## Socials
-
-  <a href="https://www.linkedin.com/in/harvey_munoz1/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
