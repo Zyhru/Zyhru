@@ -12,9 +12,10 @@
  </p>
   <div align=center>
   <h2>About Me</h2>
-  I'm a computer science major looking forward to becoming a Software Engineer.
+  Software Engineer.
   
-  I'm a Full Stack Developer and looking to enhance my skills and knowledge in becoming a better Software Engineer. 
+  I love low-level programming and I'm always learning new things. I'm currently learning OpenGL, and soon to work with an ODRIOD.
+   
   </div>
 </div>
 
